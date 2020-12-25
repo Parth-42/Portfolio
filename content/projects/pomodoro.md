@@ -1,10 +1,11 @@
 ---
 featured: true
 date: '2019-12-15'
-title: 'Pomodoro'
-cover_image: './images/ocean.jpg'
-demo_link: 'https://knochenmark.github.io/pomodoro/'
-techs: ['Javascript', 'Html5', 'Css3', 'React']
+title: 'CryptoNance'
+cover_image: './images/cryptonance.png'
+demo_link: 'https://cryptonance.netlify.app/'
+repo_link: 'https://github.com/Parth-42/Cryptonance'
+techs: ['React', 'CSS']
 ---
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
+CryptoNance is a crypto currency value tracker built using a public API.

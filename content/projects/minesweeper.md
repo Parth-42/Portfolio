@@ -1,10 +1,11 @@
 ---
 featured: true
 date: '2019-12-22'
-title: 'Minesweeper'
-cover_image: './images/motherboard.jpg'
-repo_link: 'https://github.com/Knochenmark/minesweeper'
-techs: ['Typescript', 'React']
+title: 'Covid-19 Tracker'
+cover_image: './images/covidtracker.png'
+demo_link: 'https://covidaily.netlify.app/'
+repo_link: 'https://github.com/Parth-42/covid-19-tracker'
+techs: ['React', 'Material UI']
 ---
 
-Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat.
+Covid-19 tracker built using a public API. Used MaterialUI Graphs in the overall implementation.
